@@ -1,0 +1,9 @@
+customer_id,customer_name,email,city,segment,updated_at
+1001,Aarav Sharma,aarav@example.com,Bengaluru,Consumer,2026-01-10 10:00:00
+1002,Diya Rao,diya@example.com,Mysuru,Consumer,2026-01-12 12:30:00
+1003,Kabir Mehta,kabir@example.com,Bengaluru,Corporate,2026-02-01 09:15:00
+1004,Ananya Iyer,ananya@example.com,Chennai,Small Business,2026-02-11 14:00:00
+1005,Vihaan Patel,vihaan@example.com,Hyderabad,Corporate,2026-03-04 16:20:00
+1006,Meera Nair,meera@example.com,Pune,Consumer,2026-03-18 11:45:00
+1007,Ishaan Das,ishaan@example.com,Mysuru,Small Business,2026-04-02 08:40:00
+1008,Sana Khan,sana@example.com,Chennai,Consumer,2026-04-19 13:10:00
